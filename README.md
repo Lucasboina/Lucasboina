@@ -58,7 +58,11 @@
 
   </td>
   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasboina&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucasboina&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
   </td>
 </tr>
 </table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Texto Alternativo">
+</div>
+
